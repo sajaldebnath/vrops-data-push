@@ -1,0 +1,44 @@
+[
+    {
+        "createdTime":  "Unknown",
+        "name":  "NSX_Controller_2f418b12-b99c-44b2-b3d3-7c35d1302298",
+        "Hostname":  "nsx-controller",
+        "timestamp":  1496070849944
+    },
+    {
+        "createdTime":  "Unknown",
+        "name":  "NSX_Controller_5c03d42a-1cfc-4cde-995b-178dc2423571",
+        "Hostname":  "nsx-controller",
+        "timestamp":  1496070853897
+    },
+    {
+        "createdTime":  "05/06/17",
+        "name":  "NSX_Controller_6f3c063f-8f6b-4f1b-a8bf-ddc65c117fb4",
+        "Hostname":  "nsx-controller",
+        "timestamp":  1496070857553
+    },
+    {
+        "createdTime":  "05/02/17",
+        "name":  "Edge-Gateway-0",
+        "Hostname":  "NSX-edge-2-0",
+        "timestamp":  1496070861443
+    },
+    {
+        "createdTime":  "05/05/17",
+        "name":  "Centos-Template",
+        "Hostname":  "Unknown",
+        "timestamp":  1496070865505
+    },
+    {
+        "createdTime":  "05/22/17",
+        "name":  "Routing-DLR-0",
+        "Hostname":  "NSX-edge-1-0",
+        "timestamp":  1496070869693
+    },
+    {
+        "createdTime":  "05/02/17",
+        "name":  "Cloud-Routing-DLR-0",
+        "Hostname":  "NSX-edge-4-0",
+        "timestamp":  1496070873958
+    }
+]
